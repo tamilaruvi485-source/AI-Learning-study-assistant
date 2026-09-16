@@ -1,0 +1,63 @@
+AI LEARNING AND STUDY ASSISTANT - KNOWLEDGE BASE
+
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems that can perform tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, understanding language, and decision making.
+
+MACHINE LEARNING
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+SUPERVISED LEARNING
+
+Supervised learning uses labelled training data. The model learns the relationship between input data and known output labels. Common supervised learning tasks include classification and regression.
+
+UNSUPERVISED LEARNING
+
+Unsupervised learning works with data that does not have predefined labels. The algorithm attempts to discover hidden patterns or structures in the data. Clustering is a common example.
+
+DEEP LEARNING
+
+Deep Learning is a branch of machine learning that uses artificial neural networks with multiple layers. It is commonly used for image recognition, natural language processing, speech recognition, and other complex tasks.
+
+NATURAL LANGUAGE PROCESSING
+
+Natural Language Processing (NLP) enables computers to understand, process, and generate human language. Applications include chatbots, translation, sentiment analysis, text summarization, and question answering.
+
+GENERATIVE AI
+
+Generative AI refers to artificial intelligence systems that can generate new content such as text, images, audio, video, or code based on learned patterns.
+
+RAG
+
+Retrieval Augmented Generation (RAG) combines information retrieval with language generation. The system first retrieves relevant information from a knowledge source and then uses that information to generate a response.
+
+RAG is useful because it allows an AI assistant to answer questions using a specific collection of documents instead of relying only on general model knowledge.
+
+AGENTIC AI
+
+Agentic AI refers to AI systems that can understand a goal, decide what action is required, use tools, maintain state or memory, and complete a task through multiple steps.
+
+TOOLS
+
+Tools are functions or external capabilities that an AI agent can use to perform specific tasks. Examples include calculators, search systems, databases, quiz generators, and scheduling systems.
+
+MEMORY
+
+Memory allows an AI assistant to maintain information from previous interactions. Short-term memory can maintain information during a conversation, while long-term memory can store information for future sessions.
+
+QUIZ GENERATION
+
+A quiz generator creates questions and answers for a selected topic. Multiple-choice questions can be used to help students test their understanding.
+
+STUDY PLAN
+
+A study plan organizes topics and learning activities across a number of days. A good study plan divides a large subject into smaller learning tasks and includes revision and practice.
+
+BENEFITS OF AI LEARNING ASSISTANTS
+
+AI learning assistants can provide personalized explanations, generate quizzes, create study plans, answer questions from course materials, and help students revise topics efficiently.
+
+LIMITATIONS
+
+An AI learning assistant may provide incorrect information if the source material is incomplete or ambiguous. Students should verify important academic information using official course materials and instructors.
